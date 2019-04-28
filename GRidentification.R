@@ -1,3 +1,4 @@
+#Author : Maryam Nazarieh
 ESC_set = c()
 for(i in 1:dim(exp.data)[1]){
   S = 0
